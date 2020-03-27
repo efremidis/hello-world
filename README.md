@@ -1,4 +1,3 @@
 # hello-world
-Test hello world repository
+Sample Hello World java program
 
-This is a change of the file.
